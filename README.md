@@ -3,9 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
 ## Development server
-Run `npm run server` for mocking REST API server, which is utilizing `json-server` from npm, and we set it up in `server` folder in this project.
+Run `npm run server` for mocking REST API server, which is utilizing `json-server` from npm,, and we set it up in `server` folder in this project.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server, which is consuming `json-server` above. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 ## How to mock a REST API
 Go to a new command-line interface and start by installing  `json-server`  from npm in your project:
 
